@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VastAutomation.Api", "VastAutomation.Api\VastAutomation.Api.csproj", "{AB3A0802-E15C-4533-9667-CC56EE6C6126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VastAutomation.Orchestrator", "VastAutomation.Orchestrator\VastAutomation.Orchestrator.csproj", "{90EAB333-C720-40FF-B237-9A37D2982666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB3A0802-E15C-4533-9667-CC56EE6C6126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB3A0802-E15C-4533-9667-CC56EE6C6126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB3A0802-E15C-4533-9667-CC56EE6C6126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB3A0802-E15C-4533-9667-CC56EE6C6126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EAB333-C720-40FF-B237-9A37D2982666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EAB333-C720-40FF-B237-9A37D2982666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EAB333-C720-40FF-B237-9A37D2982666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EAB333-C720-40FF-B237-9A37D2982666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
